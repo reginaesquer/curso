@@ -47,6 +47,7 @@
 		E8740E401BEA5DB100ABF9B6 /* modulo2UITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = modulo2UITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		E8740E441BEA5DB100ABF9B6 /* modulo2UITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = modulo2UITests.swift; sourceTree = "<group>"; };
 		E8740E461BEA5DB100ABF9B6 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		E8740E531BEA5DE100ABF9B6 /* tareaModulo2.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; name = tareaModulo2.playground; path = ../tareaModulo2.playground; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -77,6 +78,7 @@
 		E8740E181BEA5DB100ABF9B6 = {
 			isa = PBXGroup;
 			children = (
+				E8740E531BEA5DE100ABF9B6 /* tareaModulo2.playground */,
 				E8740E231BEA5DB100ABF9B6 /* modulo2 */,
 				E8740E381BEA5DB100ABF9B6 /* modulo2Tests */,
 				E8740E431BEA5DB100ABF9B6 /* modulo2UITests */,
